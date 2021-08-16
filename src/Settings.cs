@@ -12,12 +12,12 @@ namespace Dew
         public const int VoteDuration = 2500; // In milliseconds
         public const int AutoPlayDuration = 5; // Number of simulations that should be done after an input even if no new input is sent
 
-        public const ulong BotId = 0;
-        public const ulong ChannelId = 0;
-        public const ulong InputMessage = 0;
+        public const ulong BotId = 876841907978915850;
+        public const ulong ChannelId = 876836891167694900;
+        public const ulong InputMessage = 1;
 
-        public const string Core = "";
-        public const string RomName = "";
+        public const string Core = "f";
+        public const string RomName = "f";
 
         public const int Upscale = 2;
         public static readonly IResampler UpscaleAlgorithm = KnownResamplers.NearestNeighbor;
